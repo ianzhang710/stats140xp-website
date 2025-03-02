@@ -1,0 +1,14 @@
+{
+  "hash": "480345a19929c45b10a912c8aee33b4b",
+  "result": {
+    "markdown": "---\ntitle: \"Ian Zhang\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n [1]  0.5931650 -0.5388198  0.4011146 -1.2371768 -1.5302890  0.2266948\n [7]  1.7034969 -0.9137694 -1.1642411 -0.5993321\n```\n:::\n\n```{.r .cell-code}\nx <- 5\nrnorm(x)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1]  0.869489891  1.095893890  0.001549646 -1.674150491  0.233814741\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

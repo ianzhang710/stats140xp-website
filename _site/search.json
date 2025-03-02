@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Ian Zhang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nrnorm(10)\n\n [1]  1.15936205  0.86295724  1.39889559 -2.34074103 -0.91889852  0.37400094\n [7] -0.02007994  1.41774667  0.74938683  1.31656715\n\nx &lt;- 5\nrnorm(x)\n\n[1]  0.1475607 -0.4808340 -0.1949427 -1.8089782  0.5346604"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nrnorm(10)\n\n [1]  0.5931650 -0.5388198  0.4011146 -1.2371768 -1.5302890  0.2266948\n [7]  1.7034969 -0.9137694 -1.1642411 -0.5993321\n\nx &lt;- 5\nrnorm(x)\n\n[1]  0.869489891  1.095893890  0.001549646 -1.674150491  0.233814741"
   }
 ]
