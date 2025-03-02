@@ -1,14 +1,30 @@
 ---
 title: "Ian Zhang"
+about:
+  template: jolla
+  image: headshot.jpg
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/ianzhang710
+  - text: Email
+    url: "mailto:ianzhang710@g.ucla.edu"
 ---
 
-This is a Quarto website.
+Ian Zhang is a senior at UCLA studying Statistics and Data Science. In his free time, Ian enjoys weightlifting at the gym and playing basketball. Download [my resume](/Ian_Zhang_Resume.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-rnorm(10)
-x <- 5
-rnorm(x)
-```
+University of California, Los Angeles \| Los Angeles, CA  
+BS in Statistics and Data Science \| Sept 2021 - June 2025
+
+
+## Experience
+
+Santander \| Incoming Investment Banking Analyst \| July 2025  
+
+Santander \| Investment Banking Summer Analyst \| June 2024 - Aug 2024  
+
+K1 Investment Management \| Private Equity Summer Analyst \| June 2023 - Aug 2023  
+
+Watertower Advisors \| Investment Banking Summer Analyst \| June 2022 - Sep 2022  

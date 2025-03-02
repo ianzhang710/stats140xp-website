@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "Ian Zhang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nrnorm(10)\n\n [1]  0.5931650 -0.5388198  0.4011146 -1.2371768 -1.5302890  0.2266948\n [7]  1.7034969 -0.9137694 -1.1642411 -0.5993321\n\nx &lt;- 5\nrnorm(x)\n\n[1]  0.869489891  1.095893890  0.001549646 -1.674150491  0.233814741"
+    "text": "Ian Zhang is a senior at UCLA studying Statistics and Data Science. In his free time, Ian enjoys weightlifting at the gym and playing basketball. Download my resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ian Zhang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nBS in Statistics and Data Science | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ian Zhang",
+    "section": "Experience",
+    "text": "Experience\nSantander | Incoming Investment Banking Analyst | July 2025\nSantander | Investment Banking Summer Analyst | June 2024 - Aug 2024\nK1 Investment Management | Private Equity Summer Analyst | June 2023 - Aug 2023\nWatertower Advisors | Investment Banking Summer Analyst | June 2022 - Sep 2022"
   }
 ]
