@@ -1,0 +1,7 @@
+
+## Resume
+::: {html}
+<iframe src="Ian_Zhang_Resume.pdf" width = "100%" height = "1070px"></iframe>
+:::
+
+Download [my resume](/Ian_Zhang_Resume.pdf)

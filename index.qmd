@@ -11,7 +11,7 @@ about:
     url: "mailto:ianzhang710@g.ucla.edu"
 ---
 
-Ian Zhang is a senior at UCLA studying Statistics and Data Science. In his free time, Ian enjoys weightlifting at the gym and playing basketball. Download [my resume](/Ian_Zhang_Resume.pdf)
+Ian Zhang is a senior at UCLA studying Statistics and Data Science. In his free time, Ian enjoys weightlifting at the gym and playing basketball. 
 
 ## Education
 
@@ -27,4 +27,6 @@ Santander \| Investment Banking Summer Analyst \| June 2024 - Aug 2024
 
 K1 Investment Management \| Private Equity Summer Analyst \| June 2023 - Aug 2023  
 
-Watertower Advisors \| Investment Banking Summer Analyst \| June 2022 - Sep 2022  
+Watertower Advisors \| Investment Banking Summer Analyst \| June 2022 - Sep 2022   
+
+
