@@ -1,0 +1,6 @@
+---
+title: "Projects"
+about:
+  template: jolla
+---
+

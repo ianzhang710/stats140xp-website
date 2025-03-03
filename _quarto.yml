@@ -9,6 +9,8 @@ website:
         text: About Me
       - href: Resume.qmd
         text: Resume
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
