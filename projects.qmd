@@ -4,3 +4,8 @@ about:
   template: jolla
 ---
 
+## Predicting alcoholic status using classification models
+
+
+
+Download [alcoholic status](/alcoholproject.pdf)  
