@@ -7,6 +7,20 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Download alcoholic status"
+  },
+  {
+    "objectID": "projects.html#predicting-alcoholic-status-using-classification-models",
+    "href": "projects.html#predicting-alcoholic-status-using-classification-models",
+    "title": "Projects",
+    "section": "",
+    "text": "Download alcoholic status"
+  },
+  {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Ian Zhang",
@@ -40,19 +54,5 @@
     "title": "Ian Zhang",
     "section": "Experience",
     "text": "Experience\nSantander | Incoming Investment Banking Analyst | July 2025\nSantander | Investment Banking Summer Analyst | June 2024 - Aug 2024\nK1 Investment Management | Private Equity Summer Analyst | June 2023 - Aug 2023\nWatertower Advisors | Investment Banking Summer Analyst | June 2022 - Sep 2022"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Download alcoholic status"
-  },
-  {
-    "objectID": "projects.html#predicting-alcoholic-status-using-classification-models.",
-    "href": "projects.html#predicting-alcoholic-status-using-classification-models.",
-    "title": "Projects",
-    "section": "",
-    "text": "Download alcoholic status"
   }
 ]
