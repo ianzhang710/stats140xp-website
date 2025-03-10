@@ -5,7 +5,7 @@ about:
 ---
 
 ## Predicting alcoholic status using classification models
-
+Used statistical learning models to classify response variable of alcoholic status based off of data like Smoking Status, Cholesterol Levels, Hemoglobin, etc. 
 
 
 Download [alcoholic status](/alcoholproject.pdf)  
