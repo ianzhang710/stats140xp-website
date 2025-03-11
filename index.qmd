@@ -9,6 +9,9 @@ about:
     href: https://github.com/ianzhang710
   - text: Email
     url: "mailto:ianzhang710@g.ucla.edu"
+  - icon: linkedin
+    text: Linkedin
+    href: https://www.linkedin.com/in/ianzhang97/
 ---
 
 Ian Zhang is a senior at UCLA studying Statistics and Data Science. In his free time, Ian enjoys weightlifting at the gym and playing basketball. 
