@@ -10,3 +10,10 @@ Used statistical learning models to classify response variable of alcoholic stat
 
 Download [alcoholic status slides](/alcoholproject.pdf)  
 Download [alcoholic status report](/writtenreport.pdf)
+
+
+### The effect of drugs and exercise on memory  
+Used "The Islands" program to investigate the effect of drugs and exercise on memory, measuring swim freestyle length. Applied statistical methods including two-factor ANOVA, blocking, and Tukey's HSD.  
+
+Download [island slides](/islandpresentation.pdf)  
+Download [island report](/islandpaper.pdf)
